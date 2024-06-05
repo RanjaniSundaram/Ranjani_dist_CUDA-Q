@@ -1,0 +1,23 @@
+# Vim
+*.swp
+
+# MSVC 
+.vs/
+/out*
+CMakeSettings.json
+
+# CLion
+.idea/
+build/
+cmake-build*/
+
+# Windows build
+win/
+
+# Documentation source files
+doc/
+
+# Misc
+.DS_Store
+_test.cpp
+out.tmp
